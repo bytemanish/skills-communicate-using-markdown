@@ -6,4 +6,4 @@
 ###### sixth header
 
 
-practicing adding header file using markdown
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
